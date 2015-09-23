@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Carrot_and_stick
 {
-    public partial class main_menu : Form
+    public partial class mainForm : Form
     {
-        public main_menu()
+        public mainForm()
         {
             InitializeComponent();
         }

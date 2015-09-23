@@ -16,7 +16,7 @@ namespace Carrot_and_stick
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new main_menu());
+            Application.Run(new mainForm());
         }
     }
 }
