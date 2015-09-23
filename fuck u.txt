@@ -1,2 +1,11 @@
 print "jkjkj";
+
+Print "jkjkj";123
+print " ololo; "
+asdasdasdasd;
+asdasdasd;
+asdadasd;
+asdasd;
+
 Print "jkjkj";123;
+
