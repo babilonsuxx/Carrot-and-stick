@@ -141,6 +141,7 @@
             this.MainMenuStrip = this.menuTop;
             this.Name = "mainForm";
             this.Text = "Carrot-and-stick";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.menuTop.ResumeLayout(false);
             this.menuTop.PerformLayout();
             this.ResumeLayout(false);
